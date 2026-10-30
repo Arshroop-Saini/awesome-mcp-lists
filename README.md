@@ -324,6 +324,7 @@ MCP servers for accessing external services and APIs.
 | 86 | **Dreamwork** | Search jobs, tailor application materials, and track applications; public browsing needs no key | [GitHub](https://github.com/dreamworkhq/mcp) |
 | 86 | **Social Growth Engineers** | Hosted remote MCP server (Streamable HTTP, OAuth) for viral TikTok/Reels videos, hooks, app growth playbooks, articles, reports and App Store data. | [Docs](https://www.socialgrowthengineers.com) |
 | 87 | **Shortimize** | Hosted remote MCP server (Streamable HTTP, API key via Bearer token) for tracking TikTok, Instagram Reels and YouTube Shorts accounts and videos: views, growth and analytics. | [Docs](https://docs.shortimize.com) |
+| 88 | **Fictura** | AI-native mobile app growth data layer for coding agents: hosted Streamable HTTP MCP exposes app setup, real paywall/onboarding configurations, subscription funnels, experiments, attribution and production error traces; authorized paywall/onboarding edits stay in draft. OAuth 2.1 with DCR or a scoped key via `X-API-Key`. Endpoint `https://mcp.fictura.co/mcp` · Registry `co.fictura/mcp` | [GitHub](https://github.com/Apex-Byte-Technologies/fictura-mcp) · [Docs](https://docs.fictura.co/connections/outgoing/mcp-server) |
 
 ### AI & Machine Learning
 
